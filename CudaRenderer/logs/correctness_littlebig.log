@@ -1,0 +1,25 @@
+Rendering to 1024x1024 image
+Loaded scene with 10000 circles
+Loaded scene with 10000 circles
+---------------------------------------------------------
+Initializing CUDA for CudaRenderer
+Found 2 CUDA devices
+Device 0: GeForce GTX 1070
+   SMs:        15
+   Global mem: 8120 MB
+   CUDA Cap:   6.1
+Device 1: GeForce GTX 1070
+   SMs:        15
+   Global mem: 8120 MB
+   CUDA Cap:   6.1
+---------------------------------------------------------
+
+Running benchmark, 1 frames, beginning at frame 0 ...
+Copying image data from device
+***************** Correctness check passed **************************
+Clear:    0.1126 ms
+Advance:  0.0023 ms
+Render:   44.9159 ms
+Total:    45.0307 ms
+
+Overall:  10.4765 sec (note units are seconds)
