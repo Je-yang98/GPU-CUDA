@@ -1,4 +1,4 @@
-# GPU-CUDA
+# Cuda-Study
 Example study for GPU and Cuda programming
 
 * ### SAXPY
