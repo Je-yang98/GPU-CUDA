@@ -17,3 +17,5 @@ Shared memory allows each value to be accessed by multiple threads and improves 
 As a result, shared-memory based implementation shows almost 2 times better performance than naïve one.
 
 * ### Simple Circle Renderer
+  
+* ### Accelerating Encryption for Privacy Preserved Server-Client DNN Learning
